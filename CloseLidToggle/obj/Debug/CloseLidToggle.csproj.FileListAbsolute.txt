@@ -1,0 +1,11 @@
+C:\Users\Charles\source\repos\CloseLidToggle\CloseLidToggle\bin\Debug\CloseLidToggle.exe.config
+C:\Users\Charles\source\repos\CloseLidToggle\CloseLidToggle\bin\Debug\CloseLidToggle.exe
+C:\Users\Charles\source\repos\CloseLidToggle\CloseLidToggle\bin\Debug\CloseLidToggle.pdb
+C:\Users\Charles\source\repos\CloseLidToggle\CloseLidToggle\obj\Debug\CloseLidToggle.csprojAssemblyReference.cache
+C:\Users\Charles\source\repos\CloseLidToggle\CloseLidToggle\obj\Debug\CloseLidToggle.CLT.resources
+C:\Users\Charles\source\repos\CloseLidToggle\CloseLidToggle\obj\Debug\CloseLidToggle.Properties.Resources.resources
+C:\Users\Charles\source\repos\CloseLidToggle\CloseLidToggle\obj\Debug\CloseLidToggle.csproj.GenerateResource.cache
+C:\Users\Charles\source\repos\CloseLidToggle\CloseLidToggle\obj\Debug\CloseLidToggle.csproj.CoreCompileInputs.cache
+C:\Users\Charles\source\repos\CloseLidToggle\CloseLidToggle\obj\Debug\CloseLidToggle.exe
+C:\Users\Charles\source\repos\CloseLidToggle\CloseLidToggle\obj\Debug\CloseLidToggle.pdb
+C:\Users\Charles\source\repos\CloseLidToggle\CloseLidToggle\obj\Debug\CloseLidToggle.SystemTray.resources
